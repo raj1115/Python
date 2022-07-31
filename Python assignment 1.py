@@ -12,7 +12,3 @@ if c in a:
     print('Found')
 else:
     print('Not found')
-
-
-
-
